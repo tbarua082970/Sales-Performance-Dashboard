@@ -75,3 +75,28 @@ The dashboard enables stakeholders to:
 ---
 
 ## Repository Structure
+## Screenshots
+
+### Overall Sales Performance Dashboard
+This view shows overall sales and profitability across all years, products, and regions.
+Key KPIs such as Total Sales, Total Profit, Profit Margin %, and Total Quantity provide a quick executive summary.
+
+![Overall Dashboard](Screenshots/SS1.jpg)
+
+---
+
+### Sales Trend and Product Performance Analysis
+This view highlights sales trends over time and identifies top-performing stock items based on total sales.
+It helps understand which products contribute the most to revenue.
+
+![Sales Trend & Product Analysis](Screenshots/SS2.jpg)
+
+---
+
+### Filtered View – Regional and Brand Analysis
+This filtered view demonstrates the use of slicers (Year, City, Brand) to drill down into specific regions and brands.
+It enables focused analysis for targeted business decisions.
+
+![Filtered Dashboard View](Screenshots/SS3.jpg)
+
+
